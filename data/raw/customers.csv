@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email,phone,city,state,updated_at
+C001,Ava,Patel,ava.patel@example.com,555-0101,Austin,TX,2026-11-05T09:30:00Z
+C002,Noah,Kim,noah.kim@example.com,555-0102,Seattle,WA,2026-11-05T10:15:00Z
+C003,Mia,Garcia,mia.garcia@example.com,555-0103,Denver,CO,2026-11-06T08:45:00Z

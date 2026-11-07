@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+logs/*.log
+data/raw/ingested/
+data/clean/*.csv
+data/curated/*.csv
+data/quarantine/*.csv
+reports/*.csv
+reports/*.json

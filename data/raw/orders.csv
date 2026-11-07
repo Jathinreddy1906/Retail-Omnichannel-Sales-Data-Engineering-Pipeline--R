@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount,order_status,updated_at
+O1001,C001,P001,2026-11-05T14:22:00Z,2,24.99,0.00,completed,2026-11-05T14:22:00Z
+O1002,C002,P003,2026-11-05T16:05:00Z,1,79.95,5.00,completed,2026-11-05T16:05:00Z
+O1003,C001,P002,2026-11-06T11:40:00Z,3,18.50,2.50,completed,2026-11-06T11:40:00Z
+O1004,C003,P001,2026-11-06T18:12:00Z,1,24.99,0.00,processing,2026-11-06T18:12:00Z

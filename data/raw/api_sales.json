@@ -1,0 +1,28 @@
+{
+  "source": "retail_sales_api",
+  "generated_at": "2026-11-07T06:00:00Z",
+  "sales": [
+    {
+      "order_id": "O1005",
+      "customer_id": "C002",
+      "product_id": "P002",
+      "order_date": "2026-11-06T20:35:00Z",
+      "quantity": 2,
+      "unit_price": 18.5,
+      "discount": 0.0,
+      "order_status": "completed",
+      "updated_at": "2026-11-06T20:35:00Z"
+    },
+    {
+      "order_id": "O1006",
+      "customer_id": "C003",
+      "product_id": "P003",
+      "order_date": "2026-11-07T01:10:00Z",
+      "quantity": 1,
+      "unit_price": 79.95,
+      "discount": 10.0,
+      "order_status": "completed",
+      "updated_at": "2026-11-07T01:10:00Z"
+    }
+  ]
+}

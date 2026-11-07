@@ -1,0 +1,4 @@
+product_id,sku,product_name,category,unit_price,updated_at
+P001,APP-100,Everyday T-Shirt,Apparel,24.99,2026-11-05T08:00:00Z
+P002,HOME-210,Insulated Travel Mug,Home,18.50,2026-11-05T08:10:00Z
+P003,TECH-330,Wireless Earbuds,Electronics,79.95,2026-11-06T07:20:00Z
